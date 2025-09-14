@@ -25,12 +25,3 @@ Description: This is a sample old package. Firmware should be lower than 7.0
 Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
-
-Package: chatgpt
-Name: Tsweper's Chatgpt
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Tsweper
-Description: Example package
-Filename: ChatGPT.deb
-Size: 1
