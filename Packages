@@ -34,3 +34,17 @@ Maintainer: Tsweper
 Description: Auto-generated package
 Filename: debs/ChatGPT.deb
 Size: 7265368
+
+Package: ChatGPT
+Name: ChatGPT
+Version: 1.0
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: Tsweper
+Author: Tsweper
+Depends: firmware (<7.0)
+Description: Auto-generated package
+Filename: debs/ChatGPT.deb
+Size: 7265368
+MD5sum: 08fc4b2bbcb216aa0f8342b9cc4436e7
+Depiction: https://username.github.io/cydia/depictions/?p=ChatGPT
