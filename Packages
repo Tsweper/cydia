@@ -25,3 +25,17 @@ Description: This is a sample old package. Firmware should be lower than 7.0
 Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
+
+Package: ChatGPT
+Name: ChatGPT
+Version: 1.0
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: Tsweper
+Author: Tsweper
+Depends: firmware (>=7.0)
+Description: Auto-generated package
+Filename: debs/ChatGPT.deb
+Size: 7265368
+MD5sum: 08fc4b2bbcb216aa0f8342b9cc4436e7
+Depiction: https://tsweper.github.io/cydia/depictions/ChatGPT/info.xml
