@@ -1,0 +1,16 @@
+<package>
+    <id>ChatGPT</id>
+    <name>ChatGPT</name>
+    <version>1.0</version>
+    <compatibility>
+        <firmware>
+            <miniOS>7.0</miniOS>
+            <maxiOS>9.3.5</maxiOS>
+        </firmware>
+    </compatibility>
+    <descriptionlist>
+        <description>Auto-generated package</description>
+    </descriptionlist>
+    <screenshots>
+    </screenshots>
+</package>
