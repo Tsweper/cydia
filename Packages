@@ -53,3 +53,17 @@ Filename: debs/Youtube.deb
 Size: 18749632
 MD5sum: bf6d73606d099c386444513952c66289
 Depiction: https://tsweper.github.io/cydia/depictions/Youtube/info.xml
+
+Package: YoutubeFix
+Name: YoutubeFix
+Version: 1.0
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: Tsweper
+Author: Tsweper
+Depends: firmware (>=7.0)
+Description: Auto-generated package
+Filename: debs/YoutubeFix.deb
+Size: 101918
+MD5sum: 0a0b6a1a538c9aa369ef905fc6d1eb68
+Depiction: https://tsweper.github.io/cydia/depictions/YoutubeFix/info.xml
